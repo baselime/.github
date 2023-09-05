@@ -1,4 +1,4 @@
-![Baselime](https://raw.githubusercontent.com/baselime/.github/main/profile/github_cover%403x.png)
+![Baselime](https://raw.githubusercontent.com/baselime/.github/main/profile/github_cover.png)
 
 <div align="center">
   <h1>Baselime</h1>
@@ -15,7 +15,7 @@
 
 ## 👋 Welcome
 
-Baselime makes observing your serverless architecture easy!
+Baselime's observability solution combines logs, metrics, and distributed traces to give you full visibility across your microservices at scale.!
 
 
 ## 💚 Community
