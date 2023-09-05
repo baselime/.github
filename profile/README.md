@@ -15,7 +15,7 @@
 
 ## 👋 Welcome
 
-Baselime's observability solution combines logs, metrics, and distributed traces to give you full visibility across your microservices at scale.!
+Baselime's observability solution combines logs, metrics, and distributed traces to give you full visibility across your microservices at scale.
 
 
 ## 💚 Community
