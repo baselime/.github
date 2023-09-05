@@ -29,7 +29,7 @@ Get in touch with us or learn more about Baselime via any of the channels below.
 You can reach out to us:
 
 - [Follow us on Twitter](https://twitter.com/baselimehq) to never miss any updates from our team, ecosystem & community
-- [Join us on Slack](https://join.slack.com/t/baselimecommunity/shared_invite/zt-1eu7l0ag1-wxYXQV6Fr_aiB3ZPm3LhDQ) to be a member of the Baselime community, and connect with other serverless practitioners
+- [Join us on Slack](https://join.slack.com/t/baselimecommunity/shared_invite/zt-1eu7l0ag1-wxYXQV6Fr_aiB3ZPm3LhDQ) to be a member of the Baselime community, and connect with other cloud-computing experts
 - [Report a bug or submit a feature request](https://github.com/baselime/cli/issues) on GitHub
 
 
